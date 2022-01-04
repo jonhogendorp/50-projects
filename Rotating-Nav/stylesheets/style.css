@@ -1,3 +1,13 @@
+h1 {
+  color: cornflowerblue;
+}
 
+button{
+  border: 3px coral solid;
+  border-radius: 10%;
+}
+i{
+  font-size: 30px;
+}
 
 /*# sourceMappingURL=style.css.map */
